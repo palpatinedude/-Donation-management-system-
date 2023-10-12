@@ -3,7 +3,7 @@ Java program for managing donations and beneficiaries within an organization.Thi
    1. Classes
    2. Organization
    3. Admin
-   4.Beneficiary and Donator
+   4. Beneficiary and Donator
    5. Entity, Material, and Service
    6. Request and RequestDonation
    7. Menu
